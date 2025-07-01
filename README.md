@@ -1,6 +1,4 @@
-
-
- <h1>Quick Start</h1> 
+ <h1>Quick Start</h1>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -47,3 +45,7 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
+"dev": "vite",
+"build": "vite build",
+"lint": "eslint .",
+"preview": "vite preview",
