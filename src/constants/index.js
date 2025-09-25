@@ -75,11 +75,11 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
   {
     id: 1,
-    name: 'Behpardaz',
+    name: 'Magfa',
     pos: ' Web Developer',
     duration: 'May 2025 - Present',
-    title: "At Behpardaz I use different technologies such as React and Restfull APIs to bring ideas to life.",
-    icon: '/assets/B.png',
+    title: "At Magfa most of my time was spent on creating visually stunning websites with React and Node Js.",
+    icon: '/assets/magfalogo.jpeg',
     animation: 'victory',
   },
   {
