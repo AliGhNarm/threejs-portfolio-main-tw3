@@ -79,7 +79,7 @@ export const workExperiences = [
     pos: ' Web Developer',
     duration: 'May 2025 - Present',
     title: "At Magfa most of my time was spent on creating visually stunning websites with React and Node Js.",
-    icon: '/assets/magfalogo.jpg',
+    icon: '/assets/magfalogo.jpeg',
     animation: 'victory',
   },
   {
